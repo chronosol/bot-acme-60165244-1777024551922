@@ -1,2 +1,16 @@
-# bot-acme-60165244-1777024551922
-Chatbot APK for Acme | BotForge Project: 45c43b5b-b97e-4d20-b65d-6d97b60ae363
+# business_chatbot_template
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
